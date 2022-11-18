@@ -1,1 +1,1 @@
-# aws aechtecture 3 tier
+# aws architecture 3 tier with terraform
